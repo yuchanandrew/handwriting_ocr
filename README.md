@@ -1,2 +1,2 @@
 # Handwriting Recognition Project
-## By Andrew Rho
+### By Andrew Rho

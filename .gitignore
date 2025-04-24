@@ -1,0 +1,32 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+ocr-env/
+
+# Ignore package distribution directories
+*.egg-info/
+dist/
+build/
+
+# Ignore IDE config files
+.vscode/
+.idea/
+*.iml
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore dependency management files if using Pipenv or Poetry
+Pipfile.lock
+Poetry.lock
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables file
+.env
